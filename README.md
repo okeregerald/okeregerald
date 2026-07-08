@@ -17,7 +17,7 @@ project | description | repositoery |
 |------ | ----------- | ----------- |
 | Osint investigation | conducted an osint investigation on a target organization | www.github.com/okeregerald  |
 | Log analysis| analysed ISS and Windows Event logs to identify attacks | coming soon |
-| malware analysis | completed a malware analysis | https://www.github.com/okeregerald |
+| malware analysis | completed a malware analysis |[ https://www.github.com/okeregerald ](https://github.com/okeregerald/malware-Analysis)|
 ## skills 
 ### operating systems 
 - windows 
