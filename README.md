@@ -15,7 +15,7 @@ I enjoy building practical cybersecurity pojects that demonstrate real-world kil
 ## projects 
 project | description | repositoery |
 |------ | ----------- | ----------- |
-| Osint investigation | conducted an osint investigation on a target organization | coming soon |
+| Osint investigation | conducted an osint investigation on a target organization | www.github.com/okeregerald  |
 | Log analysis| analysed ISS and Windows Event logs to identify attacks | coming soon |
 ## skills 
 ### operating systems 
