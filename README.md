@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, i'm Okere chinwendu gerrard
 
-<!--
-**okeregerald/okeregerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me ##
+I amm a cybersecurity student at NIIT portharcourt, passionate about offsensive cybersecurity.
+I enjoy building practical cybersecurity pojects that demonstrate real-world kills in:
+-Peneration testin
+-Log analysis
+-Malware analysis 
+-Digital forensic
+-OSINT
+-Threat hunting
+-Social engineering
+-Governance risk and compliance 
 
-Here are some ideas to get you started:
+## projects 
+project | description | repositoery |
+|------ | ----------- | ----------- |
+| Osint investigation | conducted an osint investigation on a target organization | coming soon |
+| Log analysis| analysed ISS and Windows Event logs to identify attacks | coming soon |
+## skills 
+### operating systems 
+- windows 
+- linux 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### networking 
+-TCP/IP
+-DNS
+-SSH
+-TELNET
+
+### Cybersecurity tools 
+- Nmap
+- Wireshark
+- Burpsuit
+- splunk
+- -snort
+- suricate
+- elk
+- git
+- github
+
+## certifications
+- isc2 cc (in progress)
+- compTIA security (in progress)
+
+## education
+- NIIT Portharcourt: Cybersecurity program
+  ## contact
+  - Email geraldokere227@gmail.com
+
+ 
